@@ -1,4 +1,4 @@
-The IBM Qiskit Global Summer School 2024 was hosted in July 2024 and made for its students to apply the Qiskit Patterns Framework. This way, students would be able to solve problems effectively with building circuits, transpiling and optimizing circuits, and then translating the circuit to the real quantum hardware. 
+The IBM Qiskit Global Summer School 2024 was hosted in July 2024 and made for its students to apply the Qiskit Patterns Framework. This way, students would be able to solve problems effectively by building quantum circuits, transpiling and optimizing circuits, and then translating the gates of the circuit to the real quantum hardware. 
 
 Leading to applications in infrastructure engineering and quantum software engineering. 
 
